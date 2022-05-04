@@ -1,4 +1,4 @@
-modules.exports = [
+module.exports = [
     {
         id: 1,
         slug: 'red_ranger',
